@@ -13,6 +13,9 @@ So You'd Like To Teach Yourself
 * [LinkedIn Learning](https://www.linkedin.com/learning/me)
     * ~$30/month
     * Videos, many with practice exercises
+* [Jennifer Bland's Many Resources](https://www.jenniferbland.com)
+    * [in5days.tech](https://www.in5days.tech)
+    * Under the "Courses" tab, there are myriad resources for everything from beginning JavaScript tutorials to interview practice
 
 
 Coding Boot Camps:
